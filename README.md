@@ -12,7 +12,7 @@ The **Akira Hospital Management System** is a comprehensive web-based applicatio
  🧪 Lab Orders: Add and manage laboratory test orders for patients.
  🗃️ Database Tools: Backup, restore, and maintain the hospital database using built-in tools.
  📊 Dashboard: Centralized access to key modules and data insights.
- 🔐 Authentication: Includes login and access control for administrative and medical staff.
+ 🔐 Authentication: Includes login and access control for admin.
 📦 Modular Design: Separated logic for easy scaling and maintenance.
 
  🗂️ Folder Structure
