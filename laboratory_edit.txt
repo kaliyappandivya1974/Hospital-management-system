@@ -1,0 +1,3 @@
+Copy and paste this into line 225 of laboratory.php, directly below the ':name' => $name line:
+
+                    ':category_id' => $category_id,
